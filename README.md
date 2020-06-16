@@ -21,8 +21,8 @@ Github project structure
 ### Description
 
 * environment.yml contains the project specifications
-* eval_error.py python script calculates the errors 
-*.ipynb are two jupyter-notebooks mostly used for graphing
+* eval_error.py python script calculates the errors   
+* .ipynb are two jupyter-notebooks mostly used for graphing
 
 
 References:  
