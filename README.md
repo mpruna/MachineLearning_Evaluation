@@ -1,8 +1,16 @@
 ### Machine Learning scorring
 
-Most common **ML** scoring functions.
+Most common **Machine-Learning** scoring metrics/KPI.
 
 Created sysntetic data points using numpy. First I created a 2D line, then added noise:
+
+```
+x = np.linspace(0, 100, 50)
+y = 2*x + 1
+
+noise = np.random.normal(0, 7, y.shape)
+y_2 = y + noise
+```
 
 ### Machine-Learning errors
 
